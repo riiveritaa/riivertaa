@@ -17,7 +17,7 @@
 
 # 📫 Contacto
 - ✉️ Email: guillermo.r.2005@gmail.com  
-- 🌍 [LinkedIn]([ENLACE](https://www.linkedin.com/in/guillermo-eliche-rivera-870995345/)) 
+- 🌍 [LinkedIn]((https://www.linkedin.com/in/guillermo-eliche-rivera-870995345/)) 
 
   
 💡 *Este perfil estará en constante evolución mientras aprendo y desarrollo nuevos proyectos. ¡Gracias por visitarlo!*
