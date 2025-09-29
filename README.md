@@ -13,7 +13,7 @@
 - Git, GitHub
 
 # 📂 Proyectos destacados
-- 📁 [GuillermoElicheRivera.github.io]([(https://github.com/riiveritaa/GuillermoElicheRivera.github.io)) 
+- 📁 [GuillermoElicheRivera.github.io] ([(https://github.com/riiveritaa/GuillermoElicheRivera.github.io)) 
 
 # 📫 Contacto
 - ✉️ Email: guillermo.r.2005@gmail.com  
